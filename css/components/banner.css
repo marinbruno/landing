@@ -1,0 +1,32 @@
+.banner{
+  color:white;
+  height: 450px;
+  background-size: cover;
+  display:flex;
+  background-position: center;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: right;
+}
+
+.banner-content{
+  padding-right: 30px;
+}
+
+.banner-content h1{
+  font-size: 100px;
+  font-weight: 800;
+  margin: 0px;
+}
+
+.banner-content h2{
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0px;
+}
+
+.banner-content p{
+  margin-top:0px;
+  margin-bottom:50px;
+  font-weight: 500;
+}
